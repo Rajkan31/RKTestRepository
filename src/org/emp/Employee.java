@@ -14,7 +14,7 @@ public class Employee {
 		System.out.println("8124032050");
 	}
 	private void empEmail() {
-		System.out.println("xyz@infor.com");
+		System.out.println("ABC@infor.com");
 	}
 	private void empAddress() {
 		System.out.println("Hyderabad");
