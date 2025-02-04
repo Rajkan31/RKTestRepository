@@ -2,10 +2,10 @@ package org.emp;
 
 public class Employee {
 	private void empId() {
-		System.out.println("100");
+		System.out.println("1001");
 	}
 	private void empName() {
-		System.out.println("Rajesh Kannan");
+		System.out.println("Rajesh Kannan T");
 	}
 	private void empDob() {
 	    System.out.println("31-10-1993");
