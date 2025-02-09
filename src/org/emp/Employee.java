@@ -2,7 +2,7 @@ package org.emp;
 
 public class Employee {
 	private void empId() {
-		System.out.println("10");
+		System.out.println("1");
 	}
 	private void empName() {
 		System.out.println("Rajesh Kannan T");
@@ -14,14 +14,12 @@ public class Employee {
 		System.out.println("8124032050");
 	}
 	private void empEmail() {
-		System.out.println("Haha@infor.com");
-		System.out.println("Changes done by Narmada");
+		System.out.println("XXX@infor.com");
 	}
 	private void empAddress() {
 		System.out.println("Hyderabad");
 	}
-	
-	
+		
 	public static void main(String[] args) {
 		Employee obj=new Employee();
 		obj.empId();
